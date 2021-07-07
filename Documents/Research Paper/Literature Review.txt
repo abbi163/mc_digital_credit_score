@@ -1,0 +1,24 @@
+Literature Review : 
+--------------------------------
+
+1. malugin2014.pdf
+
+Paper name : Statistical analysis and econometric modelling of the creditworthiness of non-financial companies
+
+Conclusion : This paper presents the system of RSCR to assess the creditworthiness of non-financial companies. It is based on the methods of multivariate statistical analysis as well as on a set of multivariate econometric models used to assess the creditworthiness on the macro-level. The proposed methodology is applied to evaluate the creditworthiness of Belarusian companies on the basis of their financial reports data obtained within the National Bank’s monitoring system. The software developed on the proposed statistical methodology has passed a preliminary approbation on an expanded database in the National Bank of the Republic of Belarus.
+
+
+2. document.pdf
+
+Paper name : To the issue of assessing the creditworthiness of the company by russian commercial banks
+
+Conclusion : Based on the final rating evaluation, it is calculated the borrower's financial position. For a more detailed analysis, we use five quality categories of the financial indicators of the organizations, and put up the scores in accordance with them. The scores presented are recommendatory, each commercial bank appoints them independently on the basis of an expert opinion. This methodology is part of the overall methodology for assessing the financial soundness and creditworthiness of the borrower. To use the methodologies with the industry characteristics, it is necessary to have a sufficient basis for analyzing and determining the criterial values.
+
+
+3. benhayoun2013.pdf
+
+Paper name : Financial Intelligence in Prediction of Firm’s Creditworthiness Risk: Evidence from Support Vector Machine Approach
+
+
+Conclusion : This study has selected a sample of financial data of 20 companies over 2009-2011 to measure the Creditworthiness risk through the solvency risk, the productivity risk and the profitability risk, using Support Vector Machine (SVM) Model that included eight principal factors provided from Principal Factor Analysis Model that can be used as input factors to forecast the Creditworthiness risk of a company.
+The simulation results show that our SVM model gives good precisions, and that we are able to forecast the companies’ default and to give intelligent financial solutions to investors and financial institutions to help them in decision-making.
